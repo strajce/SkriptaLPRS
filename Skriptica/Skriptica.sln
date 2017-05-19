@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Skriptica", "Skriptica\Skriptica.pyproj", "{0F4068A4-4426-44E8-96BC-B423FF6BCD0A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HashTabela", "..\..\PA\vezba06\HashTabela\HashTabela\HashTabela.pyproj", "{66B9CEAF-3098-44A7-9490-B54FD39B53A7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Grafovi", "..\..\PA\vezba07\Grafovi\Grafovi\Grafovi.pyproj", "{3E6F2679-E471-4145-BCCF-1FE509109E25}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Graf2", "..\..\PA\vezba08\Graf2\Graf2\Graf2.pyproj", "{95E51926-DEDB-44F2-8E82-5D5E68E0F31B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F4068A4-4426-44E8-96BC-B423FF6BCD0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4068A4-4426-44E8-96BC-B423FF6BCD0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B9CEAF-3098-44A7-9490-B54FD39B53A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B9CEAF-3098-44A7-9490-B54FD39B53A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6F2679-E471-4145-BCCF-1FE509109E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6F2679-E471-4145-BCCF-1FE509109E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E51926-DEDB-44F2-8E82-5D5E68E0F31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E51926-DEDB-44F2-8E82-5D5E68E0F31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
